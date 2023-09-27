@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+        "questiontext": "obamas last name",
+        "options": [
+            {
+                "optiontext": "obama",
+                "correct":true
+            },
+            {
+                "optiontext": "clinton",
+                "correct":false
+            },
+            {
+                "optiontext": "trump",
+                "correct":false
+            },
+            {
+                "optiontext": "bush",
+                "correct":false
+            }
+        ]
+    },
+    {
+        "questiontext": "cheater",
+        "options": [
+            {
+                "optiontext": "obama",
+                "correct":false
+            },
+            {
+                "optiontext": "clinton",
+                "correct":true
+            },
+            {
+                "optiontext": "trump",
+                "correct":false
+            },
+            {
+                "optiontext": "bush",
+                "correct":false
+            }
+        ]
+    },
+    {
+        "questiontext": "blond mf",
+        "options": [
+            {
+                "optiontext": "obama",
+                "correct":false
+            },
+            {
+                "optiontext": "clinton",
+                "correct":false
+            },
+            {
+                "optiontext": "trump",
+                "correct":true
+            },
+            {
+                "optiontext": "bush",
+                "correct":false
+            }
+        ]
+    },
+    {
+        "questiontext": "iraq guy",
+        "options": [
+            {
+                "optiontext": "obama",
+                "correct":false
+            },
+            {
+                "optiontext": "clinton",
+                "correct":false
+            },
+            {
+                "optiontext": "trump",
+                "correct":false
+            },
+            {
+                "optiontext": "bush",
+                "correct":true
+            }
+        ]
+    },
+    {
+        "questiontext": "who is better",
+        "options": [
+            {
+                "optiontext": "you",
+                "correct":false
+            },
+            {
+                "optiontext": "yo mama",
+                "correct":false
+            },
+            {
+                "optiontext": "me ofc",
+                "correct":true
+            },
+            {
+                "optiontext": "mark zuccerberg",
+                "correct":false
+            }
+        ]
+    }
+    ]
+}

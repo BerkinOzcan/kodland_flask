@@ -1,0 +1,45 @@
+<style>
+    table {
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+    }
+    
+    td, th {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+    }
+    
+    tr:nth-child(even) {
+      background-color: #dddddd;
+    }
+    </style>
+    </head>
+    <body>
+    
+    <h2>{{city.upper()}} 3 GÜNLÜK HAVA DURUMU TAHMİNİ</h2>
+    
+    <table>
+      <tr>
+        <th>Tarih</th>
+        <th>Gündüz(C)</th>
+        <th>Gece(C)</th>
+      </tr>
+      <tr>
+        <td>{{datelist[0]}}</td>
+        <td>{{maxtemplist[0]}}</td>
+        <td>{{mintemplist[0]}}</td>
+      </tr>
+      <tr>
+        <td>{{datelist[1]}}</td>
+        <td>{{maxtemplist[1]}}</td>
+        <td>{{mintemplist[1]}}</td>
+      </tr>
+      <tr>
+        <td>{{datelist[2]}}</td>
+        <td>{{maxtemplist[2]}}</td>
+        <td>{{mintemplist[2]}}</td>
+      </tr>
+      
+    </table>
